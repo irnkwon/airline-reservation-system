@@ -1,0 +1,28 @@
+C:\Users\Hkwon7327\Desktop\HKwonAssignment1\HKwonAssignment1\bin\Debug\HKwonAssignment1.exe.config
+C:\Users\Hkwon7327\Desktop\HKwonAssignment1\HKwonAssignment1\bin\Debug\HKwonAssignment1.exe
+C:\Users\Hkwon7327\Desktop\HKwonAssignment1\HKwonAssignment1\bin\Debug\HKwonAssignment1.pdb
+C:\Users\Hkwon7327\Desktop\HKwonAssignment1\HKwonAssignment1\obj\Debug\HKwonAssignment1.csprojResolveAssemblyReference.cache
+C:\Users\Hkwon7327\Desktop\HKwonAssignment1\HKwonAssignment1\obj\Debug\HKwonAssignment1.Form1.resources
+C:\Users\Hkwon7327\Desktop\HKwonAssignment1\HKwonAssignment1\obj\Debug\HKwonAssignment1.Properties.Resources.resources
+C:\Users\Hkwon7327\Desktop\HKwonAssignment1\HKwonAssignment1\obj\Debug\HKwonAssignment1.csproj.GenerateResource.Cache
+C:\Users\Hkwon7327\Desktop\HKwonAssignment1\HKwonAssignment1\obj\Debug\HKwonAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Hkwon7327\Desktop\HKwonAssignment1\HKwonAssignment1\obj\Debug\HKwonAssignment1.exe
+C:\Users\Hkwon7327\Desktop\HKwonAssignment1\HKwonAssignment1\obj\Debug\HKwonAssignment1.pdb
+C:\Users\Chris\Desktop\HKwonAssignment1\HKwonAssignment1\bin\Debug\HKwonAssignment1.exe.config
+C:\Users\Chris\Desktop\HKwonAssignment1\HKwonAssignment1\obj\Debug\HKwonAssignment1.exe
+C:\Users\Chris\Desktop\HKwonAssignment1\HKwonAssignment1\obj\Debug\HKwonAssignment1.pdb
+C:\Users\Chris\Desktop\HKwonAssignment1\HKwonAssignment1\bin\Debug\HKwonAssignment1.exe
+C:\Users\Chris\Desktop\HKwonAssignment1\HKwonAssignment1\bin\Debug\HKwonAssignment1.pdb
+C:\Users\Chris\Desktop\HKwonAssignment1\HKwonAssignment1\obj\Debug\HKwonAssignment1.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\HKwonAssignment1\HKwonAssignment1\obj\Debug\HKwonAssignment1.Form1.resources
+C:\Users\Chris\Desktop\HKwonAssignment1\HKwonAssignment1\obj\Debug\HKwonAssignment1.Properties.Resources.resources
+C:\Users\Chris\Desktop\HKwonAssignment1\HKwonAssignment1\obj\Debug\HKwonAssignment1.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\the last one that I did\HKwonAssignment1\bin\Debug\HKwonAssignment1.exe.config
+C:\Users\Chris\Desktop\the last one that I did\HKwonAssignment1\obj\Debug\HKwonAssignment1.exe
+C:\Users\Chris\Desktop\the last one that I did\HKwonAssignment1\obj\Debug\HKwonAssignment1.pdb
+C:\Users\Chris\Desktop\the last one that I did\HKwonAssignment1\bin\Debug\HKwonAssignment1.exe
+C:\Users\Chris\Desktop\the last one that I did\HKwonAssignment1\bin\Debug\HKwonAssignment1.pdb
+C:\Users\Chris\Desktop\the last one that I did\HKwonAssignment1\obj\Debug\HKwonAssignment1.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\the last one that I did\HKwonAssignment1\obj\Debug\HKwonAssignment1.Form1.resources
+C:\Users\Chris\Desktop\the last one that I did\HKwonAssignment1\obj\Debug\HKwonAssignment1.Properties.Resources.resources
+C:\Users\Chris\Desktop\the last one that I did\HKwonAssignment1\obj\Debug\HKwonAssignment1.csproj.GenerateResource.Cache
